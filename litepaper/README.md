@@ -35,43 +35,45 @@ You have some equations: look for ">>>>>  gd2md-html alert:  equation..." in out
 
 <p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
 
-**chocolate **litepaper **🍫 **
+**chocolate** litepaper 🍫
 
 **“Building a safer Web 3.0 future for all.”**
 
 ## TABLE OF CONTENTS
 
-**03 Introduction **
-
-**10 Platform **
-
-**16 Identifying the Community Consensus: User Reviews **
-
-**18 Trust & Impartiality **
-
-**20 A Suggested Approach for Onboarding New Projects**
-
-**25 Safety Features**
-
-**30 Business Model **
-
-**33 Use Cases **
-
-**34 Technical Architecture **
-
-**35 Governance & Indicative Legal Structure**
-
-**39 Tokenomics **
-
-**44 Roadmap & Next Steps **
-
-**XX Risk Management & Mitigating Factors**
-
-**46 Team **
-
-**47 Contact**
-
-[TOC]
+- [TABLE OF CONTENTS](#table-of-contents)
+- [INTRODUCTION](#introduction)
+  - [Problem](#problem)
+  - [Types of Scams](#types-of-scams)
+  - [Our Mission](#our-mission)
+- [CHOCOLATE’S INTEGRATED PLATFORM](#chocolates-integrated-platform)
+  - [What is Chocolate? - Three Key Features](#what-is-chocolate---three-key-features)
+- [IDENTIFYING THE COMMUNITY CONSENSUS: USER REVIEWS](#identifying-the-community-consensus-user-reviews)
+  - [Review Submission Process (See “User Flow Chart” below for Illustration)](#review-submission-process-see-user-flow-chart-below-for-illustration)
+- [TRUST & IMPARTIALITY](#trust--impartiality)
+- [A SUGGESTED APPROACH FOR ONBOARDING NEW PROJECTS](#a-suggested-approach-for-onboarding-new-projects)
+- [ONBOARDING NEW PROJECTS: THE “BLIND INCUBATION” PROCESS](#onboarding-new-projects-the-blind-incubation-process)
+- [SAFETY FEATURES](#safety-features)
+- [BUSINESS MODEL](#business-model)
+  - [Initial Considerations regarding Total Addressable Market (TAM)](#initial-considerations-regarding-total-addressable-market-tam)
+  - [Monetisation](#monetisation)
+- [USE CASES FOR CHOCOLATE](#use-cases-for-chocolate)
+- [TECHNICAL ARCHITECTURE](#technical-architecture)
+  - [Why Substrate?](#why-substrate)
+- [GOVERNANCE & INDICATIVE LEGAL STRUCTURE](#governance--indicative-legal-structure)
+  - [The Chocolate and Community Autonomous Organisation (CACAO)](#the-chocolate-and-community-autonomous-organisation-cacao)
+  - [Key Aspects](#key-aspects)
+- [GOVERNANCE & INDICATIVE LEGAL STRUCTURE](#governance--indicative-legal-structure-1)
+- [TOKENOMICS](#tokenomics)
+  - [The Chocolate Token (CHOC)](#the-chocolate-token-choc)
+  - [Token Utility](#token-utility)
+  - [Community Token Strategy (Initial Thoughts)](#community-token-strategy-initial-thoughts)
+  - [Policy (Indicative Approach)](#policy-indicative-approach)
+- [ROADMAP & NEXT STEPS](#roadmap--next-steps)
+  - [Encode Polkadot Hackathon (3rd Prize in Build-a-Blockchain Category)](#encode-polkadot-hackathon-3rd-prize-in-build-a-blockchain-category)
+  - [Hack DeFi with WIntermute Encode Hackathon (11-](#hack-defi-with-wintermute-encode-hackathon-11-)
+  - [Polkadot Global Series: APAC Hackathon](#polkadot-global-series-apac-hackathon)
+- [Notes](#notes)
 
 **chocolate 🍫**
 
@@ -101,7 +103,7 @@ On the retail side, one estimate from Bloomberg suggests that from 2019 to 2020,
 
 Ranked from easiest to most difficult to eliminate.
 
-1. **“Deep-fakes”: where scammers use imposter websites and social media handles that look like existing legitimate entities. Lowest hanging fruit. To address first. \
+1. **“Deep-fakes”**: where scammers use imposter websites and social media handles that look like existing legitimate entities. Lowest hanging fruit. To address first. \
    ** → Solve by checking directly with core teams via our ambassador networks, and with **one-click transparency** and **simple ML **to direct people to legitimate sites and community members.** \
     `**
 2. **Lack of knowledge: where victims are new to the ecosystem and do not understand Web 3.0 transactions. Low hanging fruit. To tackle next.** \
@@ -162,7 +164,7 @@ _“To reduce scams and facilitate mainstream adoption of crypto by providing a 
       - We may introduce code audits for project codebases as an additional layer of security. This would enable us to verify projects are doing what they claim to do. We have identified [https://rugdoc.io/](https://rugdoc.io/), [https://tokensniffer.com/](https://tokensniffer.com/), [https://rugseekers.online/](https://rugseekers.online/) as potential strategic partners for collaboration.
 
 2. **An Easy-to-Use, User-Centric Interface and Experience** 4. Clean, intuitive design 12. A user-friendly interface that embodies clean and intuitive design tenets, adopting best practices from leading crypto projects and traditional Big Tech incumbents, e.g. infinite scroll, search bar, UI/UX and brand considerations, accessibility, etc. 13. An easily-recognisable symbol of trust and reliability: the "chocolate verified badge", which serves 3 functions: 15. Awarded upon verification of projects, proving that they are the core team behind a project. Can be displayed on their websites, exchanges, and events page. 16. To show their average chocolate score, plus number of reviews under or next to the icon/badge. 17. One-click button to show the underlying wallet address (for ICOs) or smart contracts (for tokens). (A stretch goal.) 14. Friendly for non crypto-native users 15. Wide-ranging compatibility with multiple OSes (Mac, Windows, Linux, Chromebook), web browsers (Chrome, Brave, Mozilla, Safari), platforms (Mobile, Laptop, PCs), etc. 5. Highly compatible and accessible 16. Easy to download across a range of internet connections—useful for emerging market user base, e.g. Africa, SEA, LatAm, China where users are mobile-first with unstable internet connections 17. Simple to set up, so onboarding is smooth for first-time reviewers 18. Omnichannel distribution and deployment through: 18. Clean and easily-recognisable "Verified Badge", one-click verification / authentication process to reveal transaction, receiving wallet address, and  
-    19. Wallet / browser extensions like Polkadot.js and MetaMask, Norton AntiVirus, etc. 2. Leveraging existing infrastructure of Polkadot.js wallet extension makes it easier for scam alerts to notify users upon entry into known scam sites, protects against fake websites which link to other fake websites, and makes it technically more difficult for hackers to succeed as they must break through Polkadot’s own defenses to hijack the wallet extension. 19. Potential mobile-friendly user interface to complement desktop website to cater to a large portion of communities within emerging economies which “skipped” the desktop and went straight to smartphones 20. We also plan to include accessibility features for those who need visual / auditory accommodations, etc.
+   19. Wallet / browser extensions like Polkadot.js and MetaMask, Norton AntiVirus, etc. 2. Leveraging existing infrastructure of Polkadot.js wallet extension makes it easier for scam alerts to notify users upon entry into known scam sites, protects against fake websites which link to other fake websites, and makes it technically more difficult for hackers to succeed as they must break through Polkadot’s own defenses to hijack the wallet extension. 19. Potential mobile-friendly user interface to complement desktop website to cater to a large portion of communities within emerging economies which “skipped” the desktop and went straight to smartphones 20. We also plan to include accessibility features for those who need visual / auditory accommodations, etc.
 3. **A Decentralised Autonomous Organisation (DAO) ** 6. a.k.a. the Chocolate and Community Autonomous Organisation (CACAO) 7. Laying the groundwork for a treasury, self-sustaining scalability and development, community participation, and accrual of value to token holders
 
 ## IDENTIFYING THE COMMUNITY CONSENSUS: USER REVIEWS
