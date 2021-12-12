@@ -1,7 +1,9 @@
+<!-- Output copied to clipboard! -->
+
 <!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 5.088 seconds.
+Conversion time: 6.686 seconds.
 
 
 Using this Markdown file:
@@ -14,7 +16,7 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β31
-* Sat Dec 11 2021 05:16:24 GMT-0800 (PST)
+* Sun Dec 12 2021 07:33:18 GMT-0800 (PST)
 * Source doc: chocolate litepaper 🍫
 * Tables are currently converted to HTML tables.
 
@@ -25,34 +27,37 @@ You have some equations: look for ">>>>>  gd2md-html alert:  equation..." in out
 
 ----->
 
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 4.</p>
+<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 5.</p>
 <ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
 
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
+<p style="color: red; font-weight: bold">Links to alert messages:</p>
 <a href="#gdcalert2">alert2</a>
 <a href="#gdcalert3">alert3</a>
 <a href="#gdcalert4">alert4</a>
+<a href="#gdcalert5">alert5</a>
 
 <p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
 
-**chocolate** litepaper 🍫
+**chocolate **litepaper **🍫 **
 
 **“Building a safer Web 3.0 future for all.”**
 
-## TABLE OF CONTENTS
+**TABLE OF CONTENTS**
 
-- [TABLE OF CONTENTS](#table-of-contents)
 - [INTRODUCTION](#introduction)
   - [Problem](#problem)
   - [Types of Scams](#types-of-scams)
+  - [Solution](#solution)
+  - [Focus for the Immediate Term](#focus-for-the-immediate-term)
   - [Our Mission](#our-mission)
 - [CHOCOLATE’S INTEGRATED PLATFORM](#chocolates-integrated-platform)
   - [What is Chocolate? - Three Key Features](#what-is-chocolate---three-key-features)
 - [IDENTIFYING THE COMMUNITY CONSENSUS: USER REVIEWS](#identifying-the-community-consensus-user-reviews)
-  - [Review Submission Process (See “User Flow Chart” below for Illustration)](#review-submission-process-see-user-flow-chart-below-for-illustration)
+  - [Review Submission Process](#review-submission-process)
+- [CHOCOLATE USER FLOW](#chocolate-user-flow)
 - [TRUST & IMPARTIALITY](#trust--impartiality)
-- [A SUGGESTED APPROACH FOR ONBOARDING NEW PROJECTS](#a-suggested-approach-for-onboarding-new-projects)
-- [ONBOARDING NEW PROJECTS: THE “BLIND INCUBATION” PROCESS](#onboarding-new-projects-the-blind-incubation-process)
+- [ONBOARDING NEW PROJECTS: A SUGGESTED APPROACH](#onboarding-new-projects-a-suggested-approach)
+  - [The “Blind Incubation” Process](#the-blind-incubation-process)
 - [SAFETY FEATURES](#safety-features)
 - [BUSINESS MODEL](#business-model)
   - [Initial Considerations regarding Total Addressable Market (TAM)](#initial-considerations-regarding-total-addressable-market-tam)
@@ -63,7 +68,7 @@ You have some equations: look for ">>>>>  gd2md-html alert:  equation..." in out
 - [GOVERNANCE & INDICATIVE LEGAL STRUCTURE](#governance--indicative-legal-structure)
   - [The Chocolate and Community Autonomous Organisation (CACAO)](#the-chocolate-and-community-autonomous-organisation-cacao)
   - [Key Aspects](#key-aspects)
-- [GOVERNANCE & INDICATIVE LEGAL STRUCTURE](#governance--indicative-legal-structure-1)
+  - [Relationships Between the Entities](#relationships-between-the-entities)
 - [TOKENOMICS](#tokenomics)
   - [The Chocolate Token (CHOC)](#the-chocolate-token-choc)
   - [Token Utility](#token-utility)
@@ -71,8 +76,16 @@ You have some equations: look for ">>>>>  gd2md-html alert:  equation..." in out
   - [Policy (Indicative Approach)](#policy-indicative-approach)
 - [ROADMAP & NEXT STEPS](#roadmap--next-steps)
   - [Encode Polkadot Hackathon (3rd Prize in Build-a-Blockchain Category)](#encode-polkadot-hackathon-3rd-prize-in-build-a-blockchain-category)
-  - [Hack DeFi with WIntermute Encode Hackathon (11-](#hack-defi-with-wintermute-encode-hackathon-11-)
+  - [Hack DeFi with WIntermute Encode Hackathon (11-20th Prize)](#hack-defi-with-wintermute-encode-hackathon-11-20th-prize)
   - [Polkadot Global Series: APAC Hackathon](#polkadot-global-series-apac-hackathon)
+- [RISK MANAGEMENT & MITIGATING FACTORS](#risk-management--mitigating-factors)
+  - [Technological](#technological)
+  - [Competitive Landscape](#competitive-landscape)
+  - [Political, Legal and Regulatory](#political-legal-and-regulatory)
+  - [Environmental](#environmental)
+  - [Sociological](#sociological)
+- [TEAM](#team)
+- [CONTACT](#contact)
 - [Notes](#notes)
 
 **chocolate 🍫**
@@ -105,7 +118,7 @@ Ranked from easiest to most difficult to eliminate.
 
 1. **“Deep-fakes”**: where scammers use imposter websites and social media handles that look like existing legitimate entities. Lowest hanging fruit. To address first. \
    ** → Solve by checking directly with core teams via our ambassador networks, and with **one-click transparency** and **simple ML **to direct people to legitimate sites and community members.** \
-    `**
+    `\*\*
 2. **Lack of knowledge: where victims are new to the ecosystem and do not understand Web 3.0 transactions. Low hanging fruit. To tackle next.** \
    → Solve with **verification badge** and **Community Trust Consensus** with little debate i.e. near-unanimous or majority consensus among community opinions. \
 
@@ -116,17 +129,11 @@ Ranked from easiest to most difficult to eliminate.
    → Solve with **verification badge** with more subjectivity (might require community referendum) and a **Community Trust Consensus** mechanism. \
    → In this case, there will be a lot of activity in the Community Trust Consensus mechanism, e.g. a lot of collateralized opinions. We aim to design the incentives to not punish well-intentioned users who are genuinely trying to help provide reviews on projects they have interacted with or have some knowledge on. Some projects will fail and then the team pulls the rug, to the disadvantage of the investors.
 
-**Focus for the Immediate Term**
-
-We aim to build out our minimum viable product as a first step. As alluded to above, scams present themselves in myriad forms, and we will target the lowest hanging fruit first: imposter websites that mimic the websites of legitimate high-profile projects, luring unsuspecting victims into transferring crypto assets through fake ICOs, crowd loans, and airdrops.
-
 **Imagine a safer world…**
 
 What if, for any entity you wish to transact with, you could verify their community trust ratings with a single click, have assurance from reputable leaders, and browse through honest reviews from the community with aligned incentives?
 
-Our immediate goal is to combat scams in crypto, but in the long-run, we plan to work with corporations, banks, governments and other non-crypto organisations to provide a safe, decentralised solution for a future with fewer scams.
-
-**Solution**
+### Solution
 
     Enter: **chocolate**.
 
@@ -138,6 +145,14 @@ Our immediate goal is to combat scams in crypto, but in the long-run, we plan to
 - **A Pragmatic, Accountable Approach** - Our aim is to reduce the overall amount of scams in the community without sacrificing accountability and transparency. No arbitrary decisions or black boxes. We strive to reward all genuine contributions and protect the interests of all well-intentioned community members.
 - _Will the White Hats emerge triumphant over the Black Hats? Chocolate aims to tip the favour towards good actors :) 🧙🏼‍♂️_
 
+###
+
+### Focus for the Immediate Term
+
+We aim to build out our minimum viable product as a first step. As alluded to above, scams present themselves in myriad forms, and we will target the lowest hanging fruit first: imposter websites that mimic the websites of legitimate high-profile projects, luring unsuspecting victims into transferring crypto assets through fake ICOs, crowd loans, and airdrops.
+
+Our immediate goal is to combat scams in crypto, but in the long-run, we plan to work with corporations, banks, governments and other non-crypto organisations to provide a safe, decentralised solution for a future with fewer scams.
+
 ### Our Mission
 
 ** \
@@ -145,40 +160,42 @@ _“To reduce scams and facilitate mainstream adoption of crypto by providing a 
 
 ## CHOCOLATE’S INTEGRATED PLATFORM
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image1.png 'image_tooltip')
+![alt_text](./images/image1 'image_tooltip')
 
 ### What is Chocolate? - Three Key Features
 
-1. **An Integrated Safety Platform, Itself Comprising Three Subcomponents**
+1.  A Community-Powered Reviews Platform
+    1. Harnessing the power of the people: Users submit reviews on our website on whether they found a given project reliable or not based on their experiences—similar to Trustpilot, Amazon product reviews, AirBnB host ratings and Uber driver ratings
+       1. Users may also be able to upvote or “like” other users’ reviews
+    2. An overall review score is awarded to each project based on community reviews in the form of a “Chocolate 🍫 verified badge”—just like TrustPilot ratings found on many merchant websites—which could then be featured on the project’s crowdloan webpage, initial coin offering (ICO) pages, or decentralised exchange (DEX) platform interfaces, etc. 2. The "Chocolate Score" represents the legitimacy of a given project and may be used to help newer projects secure startup funding down the road 3. 🍫 badges pull data from IPFS, with a reference to it stored on chocolate’s blockchain, so they cannot be tampered with and are publicly viewable. 4. 🍫 badges could also double up as “one-click” buttons for users to verify receiving wallet addresses for ICOs and treasury fundings, or smart contracts for tokens and NFTs, on websites CoinGecko, block explorers like Etherscan and Subscan or exchanges like CoinGecko and Niftex, Singular and Rarible.
+    3. Projects that have low trust scores may be identified on a watchlist, and a “heads-up” notification will pop-up upon entry into websites for projects which have been flagged. 5. The latter is a feature we plan to implement through integration with the polkadot.js web extension 6. We have received initial indications of interest for potential direct collaboration with Web3 Foundation.
+    4. See: “Identifying the Community Consensus” below.
+2.  Machine Learning 5. A scalable approach that augments user onboarding and user review screening capabilities, subject to human operator oversight 6. To verify that accounts are legitimate and weed out bot accounts 7. To authenticate reviews and isolate false claims, similar to TrustPilot user reviews, or the ML review process used for Amazon customer product reviews 8. Potential strategic collaboration with Phala Network 7. Machine Learning is computationally-intensive, so it is traditionally difficult to implement within the restrictions of blockchain infrastructure 8. TEE (Trusted Execution Environment) is a special computer processor component that preserves the confidentiality of code and data loaded within it. Phala Network combines the privacy of TEE with blockchain technology to form a secure and efficient distributed computing cloud, making it perfectly suited to ML applications in blockchain. 9. This could make it possible for Chocolate to leverage Machine Learning (ML) capabilities within a blockchain-native private cloud computing environment. 1. Specifically: a ML technology called “Federated Learning”, in which data and models are distributed over multiple machines. 10. We have direct connections with the Phala Network core team from our professional network and may establish a strategic partnership down the road. 9. See “Safety Features” below for further discussion.
+3.  Substrate-Based Blockchain Technology 10. A token-based incentive system to align interests and encourage positive participation 11. Users can be rewarded in CHOC for their contributions, such as by contributing reviews to the platform, creating educational content for our wiki, producing community content, or even receiving it as gifts from other users for providing helpful reviews as a gesture of thanks and support 11. “Collateralisation” and “staking” systems concurrently align user incentives to act in the interests of the Chocolate ecosystem 12. An immutable and publicly verifiable ledger for projects’ reputational trust scores, user review data, user account track records, and potentially also token smart contract information 13. Leveraging the full potential of Polkadot’s technology, ecosystem and network effects 12. E.g. interoperability—to tap into the capabilities of other platforms like Phala Network for ML, Moonbeam Network for Ethereum/Solidity compatibility, Astar Network, etc. 13. Forkless Upgrades (future-proof infrastructure) 14. Shared security of the Polkadot proof-of-stake architecture 15. Substrate pallets, etc.
 
-   1. Community-Powered Reviews (See: “Identifying the Community Consensus” below)
-      1. Harnessing the power of the people: Users submit reviews on our website on whether they found a given project reliable or not based on their experiences—similar to Trustpilot, Amazon product reviews, AirBnB host ratings and Uber driver ratings
-         1. Users may also be able to upvote or “like” other users’ reviews
-      2. An overall review score is awarded to each project based on community reviews in the form of a “Chocolate 🍫 verified badge”—just like TrustPilot ratings found on many merchant websites—which could then be featured on the project’s crowdloan webpage, initial coin offering (ICO) pages, or decentralised exchange (DEX) platform interfaces, etc. 2. The "Chocolate Score" represents the legitimacy of a given project and may be used to help newer projects secure startup funding down the road 3. 🍫 badges pull data from IPFS, with a reference to it stored on chocolate’s blockchain, so they cannot be tampered with and are publicly viewable. 4. 🍫 badges could also double up as “one-click” buttons for users to verify receiving wallet addresses for ICOs and treasury fundings, or smart contracts for tokens and NFTs, on websites CoinGecko, block explorers like Etherscan and Subscan or exchanges like CoinGecko and Niftex, Singular and Rarible.
-      3. Projects that have low trust scores may be identified on a watchlist, and a “heads-up” notification will pop-up upon entry into websites for projects which have been flagged. 5. The latter is a feature we plan to implement through integration with the polkadot.js web extension 6. We have received initial indications of interest for potential direct collaboration with Web3 Foundation.
-   2. Machine Learning (See “Safety Features” below for further discussion) 4. A scalable approach that augments our onboarding and review capabilities, subject to human operator oversight 5. To verify that accounts are legitimate and weed out bot accounts 6. To authenticate reviews and isolate false claims, similar to TrustPilot user reviews, or the ML review process used for Amazon customer product reviews 7. Potential strategic collaboration with Phala Network 7. Machine Learning is computationally-intensive, so it is traditionally difficult to implement within the restrictions of blockchain infrastructure 8. TEE (Trusted Execution Environment) is a special computer processor component that preserves the confidentiality of code and data loaded within it. Phala Network combines the privacy of TEE with blockchain technology to form a secure and efficient distributed computing cloud, making it perfectly suited to ML applications in blockchain. 9. This could make it possible for Chocolate to leverage Machine Learning (ML) capabilities within a blockchain-native private cloud computing environment. 1. Specifically: a ML technology called “Federated Learning”, in which data and models are distributed over multiple machines. 10. We have direct connections with the Phala Network core team from our professional network and may establish a strategic partnership down the road.
-   3. Substrate-based blockchain technology, providing 8. A token-based incentive system to align interests and encourage positive participation 11. Users can be rewarded in CHOC for their contributions, such as by contributing reviews to the platform, creating educational content for our wiki, producing community content, or even receiving it as gifts from other users for providing helpful reviews as a gesture of thanks and support 9. Collateralisation and staking systems concurrently align user incentives to act in the interests of the Chocolate ecosystem 10. An immutable and publicly verifiable ledger for projects’ reputational trust scores, user review data, user account track records, and potentially also token smart contract information 11. Leveraging the full potential of Polkadot’s technology, ecosystem and network effects 12. E.g. interoperability—to tap into the capabilities of other platforms like Phala Network for ML, Moonbeam Network for Ethereum/Solidity compatibility, Astar Network, etc. 13. Forkless Upgrades (future-proof infrastructure) 14. Substrate pallets, etc.
+        + We may introduce code audits for project codebases as an additional layer of security. This would enable us to verify projects are doing what they claim to do. We have identified [https://rugdoc.io/](https://rugdoc.io/), [https://tokensniffer.com/](https://tokensniffer.com/), [https://rugseekers.online/](https://rugseekers.online/) as potential strategic partners for collaboration.
 
-      - We may introduce code audits for project codebases as an additional layer of security. This would enable us to verify projects are doing what they claim to do. We have identified [https://rugdoc.io/](https://rugdoc.io/), [https://tokensniffer.com/](https://tokensniffer.com/), [https://rugseekers.online/](https://rugseekers.online/) as potential strategic partners for collaboration.
-
-2. **An Easy-to-Use, User-Centric Interface and Experience** 4. Clean, intuitive design 12. A user-friendly interface that embodies clean and intuitive design tenets, adopting best practices from leading crypto projects and traditional Big Tech incumbents, e.g. infinite scroll, search bar, UI/UX and brand considerations, accessibility, etc. 13. An easily-recognisable symbol of trust and reliability: the "chocolate verified badge", which serves 3 functions: 15. Awarded upon verification of projects, proving that they are the core team behind a project. Can be displayed on their websites, exchanges, and events page. 16. To show their average chocolate score, plus number of reviews under or next to the icon/badge. 17. One-click button to show the underlying wallet address (for ICOs) or smart contracts (for tokens). (A stretch goal.) 14. Friendly for non crypto-native users 15. Wide-ranging compatibility with multiple OSes (Mac, Windows, Linux, Chromebook), web browsers (Chrome, Brave, Mozilla, Safari), platforms (Mobile, Laptop, PCs), etc. 5. Highly compatible and accessible 16. Easy to download across a range of internet connections—useful for emerging market user base, e.g. Africa, SEA, LatAm, China where users are mobile-first with unstable internet connections 17. Simple to set up, so onboarding is smooth for first-time reviewers 18. Omnichannel distribution and deployment through: 18. Clean and easily-recognisable "Verified Badge", one-click verification / authentication process to reveal transaction, receiving wallet address, and  
-   19. Wallet / browser extensions like Polkadot.js and MetaMask, Norton AntiVirus, etc. 2. Leveraging existing infrastructure of Polkadot.js wallet extension makes it easier for scam alerts to notify users upon entry into known scam sites, protects against fake websites which link to other fake websites, and makes it technically more difficult for hackers to succeed as they must break through Polkadot’s own defenses to hijack the wallet extension. 19. Potential mobile-friendly user interface to complement desktop website to cater to a large portion of communities within emerging economies which “skipped” the desktop and went straight to smartphones 20. We also plan to include accessibility features for those who need visual / auditory accommodations, etc.
-3. **A Decentralised Autonomous Organisation (DAO) ** 6. a.k.a. the Chocolate and Community Autonomous Organisation (CACAO) 7. Laying the groundwork for a treasury, self-sustaining scalability and development, community participation, and accrual of value to token holders
+4.  An Easy-to-Use, User-Centric Interface and Experience 14. Clean, intuitive design 16. A user-friendly interface that embodies clean and intuitive design tenets, adopting best practices from leading crypto projects and traditional Big Tech incumbents, e.g. infinite scroll, search bar, UI/UX and brand considerations, accessibility, etc. 17. An easily-recognisable symbol of trust and reliability: the "chocolate verified badge", which serves 3 functions: 2. Awarded upon verification of projects, proving that they are the core team behind a project. Can be displayed on their websites, exchanges, and events page. 3. To show their average chocolate score, plus number of reviews under or next to the icon/badge. 4. One-click button to show the underlying wallet address (for ICOs) or smart contracts (for tokens). (A stretch goal.) 18. Friendly for non crypto-native users 19. Wide-ranging compatibility with multiple OSes (Mac, Windows, Linux, Chromebook), web browsers (Chrome, Brave, Mozilla, Safari), platforms (Mobile, Laptop, PCs), etc. 15. Highly compatible and accessible 20. Easy to download across a range of internet connections—useful for emerging market user base, e.g. Africa, SEA, LatAm, China where users are mobile-first with unstable internet connections 21. Simple to set up, so onboarding is smooth for first-time reviewers 22. Omnichannel distribution and deployment through: 5. Clean and easily-recognisable "Verified Badge", one-click verification / authentication process to reveal transaction, receiving wallet address, and  
+     6. Wallet / browser extensions like Polkadot.js and MetaMask, Norton AntiVirus, etc. 1. Leveraging existing infrastructure of Polkadot.js wallet extension makes it easier for scam alerts to notify users upon entry into known scam sites, protects against fake websites which link to other fake websites, and makes it technically more difficult for hackers to succeed as they must break through Polkadot’s own defenses to hijack the wallet extension. 23. Potential mobile-friendly user interface to complement desktop website to cater to a large portion of communities within emerging economies which “skipped” the desktop and went straight to smartphones 24. We also plan to include accessibility features for those who need visual / auditory accommodations, etc.
+5.  A Decentralised Autonomous Organisation (DAO) 16. a.k.a. the Chocolate and Community Autonomous Organisation (CACAO) 17. Laying the groundwork for a treasury, self-sustaining scalability and development, community participation, and accrual of value to token holders
 
 ## IDENTIFYING THE COMMUNITY CONSENSUS: USER REVIEWS
 
-### Review Submission Process (See “User Flow Chart” below for Illustration)
+### Review Submission Process
 
-1. Users connect a wallet and set up an account
+1. See “User Flow Chart” below for an illustration of the process.
+2. Users connect a wallet and set up an account
    1. User accounts will have a wallet-linked profile on the chocolate platform
    2. This ensures accountability of reviews, while preserving anonymity if desired
    3. This also enables users to develop track records for the helpfulness of their reviews that are viewable by the public
    4. Users can also participate in a loyalty bonus scheme for continued positive contributions, including referrals, and enjoy bonus review rewards if they stake CHOC
-2. Users lock up a micro-deposit (collateralisation) 5. Their collateral will get slashed if the review is found to be inappropriate (e.g. discriminatory remarks, hate speech, submit profanities, NSFW content, spam, gibberish, etc.) and the user commits repeat offenses 6. For the testnet, we will use the CHOC token for code simplicity, but the plan for mainnet is to use an external token that is non-native to the chocolate ecosystem. 7. See “Safety Features” below for the rationale.
-3. Users lookup projects on the chocolate platform and submit reviews 8. See below for the "Verification of Reviews"
-4. Verified reviews are awarded CHOC tokens [“carrot”], and the collateral is released back to the original wallets 9. Project profiles that have yet to be listed on chocolate may be created by users, and they may also be rewarded with CHOC for their contributions 10. Users who submit inappropriate reviews are put on notice [“stick”] 1. Principle of Proportionality applies—to ensure a fair penalty system 2. This extends the benefit of doubt in case of well-intentioned reviewers who make genuine mistakes, and we implement a 3. “Sliding scale of severity” for repeat (or serious) offenders acts as an effective deterrent for bad behaviour
+3. Users lock up a micro-deposit (collateralisation) 5. Their collateral will get slashed if the review is found to be inappropriate (e.g. discriminatory remarks, hate speech, submit profanities, NSFW content, spam, gibberish, etc.) and the user commits repeat offenses 6. For the testnet, we will use the CHOC token for code simplicity, but the plan for mainnet is to use an external token that is non-native to the chocolate ecosystem. 7. See “Safety Features” below for the rationale.
+4. Users lookup projects on the chocolate platform and submit reviews 8. See below for the "Verification of Reviews"
+5. Verified reviews are awarded CHOC tokens [“carrot”], and the collateral is released back to the original wallets 9. Project profiles that have yet to be listed on chocolate may be created by users, and they may also be rewarded with CHOC for their contributions 10. Users who submit inappropriate reviews are put on notice [“stick”] 1. Principle of Proportionality applies—to ensure a fair penalty system 2. This extends the benefit of doubt in case of well-intentioned reviewers who make genuine mistakes, and we implement a 3. “Sliding scale of severity” for repeat (or serious) offenders acts as an effective deterrent for bad behaviour
+
+## CHOCOLATE USER FLOW
+
+![alt_text](images/image2.png 'image_tooltip')
 
 ## TRUST & IMPARTIALITY
 
@@ -195,7 +212,7 @@ _“To reduce scams and facilitate mainstream adoption of crypto by providing a 
 8. In the long run, we are considering potentially using user reviews to not only weed out toxic projects, but to also help legitimate projects improve their service offerings through user feedback analytics, similar to how FBA Aggregators (Fulfilled-by-Amazon) are designing improved products using insights gained by trawling Amazon Customer Review data (also see: Trustpilot’s freemium-premium two-tiered business model).
 9. We may thus be adding value through a dichotomous feedback loop and contributing to a safer and more robust crypto ecosystem.
 
-## A SUGGESTED APPROACH FOR ONBOARDING NEW PROJECTS
+## ONBOARDING NEW PROJECTS: A SUGGESTED APPROACH
 
 How do we onboard new projects and identify their initial “Chocolate Trust Scores”?
 
@@ -212,52 +229,48 @@ How do we onboard new projects and identify their initial “Chocolate Trust Sco
    10. Typically only a significant consideration for tail-end, lesser known projects as high-profile projects would have large majorities in favour of the project. 11. Down the road, we could incorporate natural language processing (NLP), a form of machine learning technology for word and speech/text recognition, to make the overall score more holistic / multi-faceted.
 5. Also see: Project-Sponsored Bounties (See “Governance” and “Tokenomics” section below)\*\* \*\*
 
-## ONBOARDING NEW PROJECTS: THE “BLIND INCUBATION” PROCESS
+### The “Blind Incubation” Process
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image2.png 'image_tooltip')
+![alt_text](images/image3.png 'image_tooltip')
 
 ## SAFETY FEATURES
 
 Checks and measures to protect the robustness of the system
 
 1.  Alignment of Incentives
+    1. Financial incentives engender reviewer (user) accountability, user reviews in turn encourage accountability of project teams as their public reputation is on the line.
+    2. Further thought should be given as to the optimal way to approach our audit process, the intuition and rationale, and the role of machine learning in augmenting our approach for both user accounts and reviews, i.e. How do we tell if an account is legitimate? What is considered a genuine review and what is to be considered inappropriate content? How do we measure this and what is the threshold?
+    3. This can be implemented in practice via: staking, collateralization, connection of wallets, and user and project profiles
+2.  Staking
 
-    1.  Financial incentives engender reviewer (user) accountability, user reviews in turn encourage accountability of project teams as their public reputation is on the line.
-    2.  Further thought should be given as to the optimal way to approach our audit process, the intuition and rationale, and the role of machine learning in augmenting our approach for both user accounts and reviews, i.e. How do we tell if an account is legitimate? What is considered a genuine review and what is to be considered inappropriate content? How do we measure this and what is the threshold?
-    3.  This can be implemented in practice via: staking, collateralization, connection of wallets, and user and project profiles
+    Staking is conducted across the platform for each user. There are two distinct functions of staking in the chocolate platform that users can participate in. To be clear however, there is no practical distinction between the two functions in terms of how tokens get staked, and each wallet will have only one total staking balance.
 
-        1.  **Staking**
+    4. Staking to provide network security
+       1. Users can stake CHOC to receive CHOC staking yield as an income stream for contributing to overall chocolate network security, similar to staking on Polkadot, Kusama, Moonriver or Phala Network.
+    5. Staking as a means of enhancing CHOC rewards for user reviews 2. Users with higher CHOC staking balances on the chocolate platform will, up to a limit, enjoy relatively higher rewards compared to users who stake lower amounts of CHOC or do not stake CHOC at all. 3. This is to reward users for both contributing to network security and contributing to the trust system of chocolate
 
-            Staking is conducted across the platform for each user. There are two distinct functions of staking in the chocolate platform that users can participate in. To be clear however, there is no practical distinction between the two functions in terms of how tokens get staked, and each wallet will have only one total staking balance.
+3.  Accountability for Reviews through Collateralisation
 
-            1. Staking to provide network security
-               1. Users can stake CHOC to receive CHOC staking yield as an income stream for contributing to overall chocolate network security, similar to staking on Polkadot, Kusama, Moonriver or Phala Network.
-            2. Staking as a means of enhancing CHOC rewards for user reviews 2. Users with higher CHOC staking balances on the chocolate platform will, up to a limit, enjoy relatively higher rewards compared to users who stake lower amounts of CHOC or do not stake CHOC at all. 3. This is to reward users for both contributing to network security and contributing to the trust system of chocolate
+    Collateral is locked-up by users in order to submit their reviews
 
-        2.  **Collateralization**
+    6. This micro-deposit must be large enough to encourage honest participation, but small enough to ensure minimal friction in user onboarding and scaling of the chocolate platform, similar in concept and function to Interlay-Kintsugi BTC’s micro-deposits used when locking up BTC 4. Users should have “skin in the game” to ensure accountability for the reviews they submit 5. Also protects the system against Denial of Service (DoS) attacks
+    7. For mainnet, this may be DOT or KSM, and eventually any non-CHOC token that is widely circulated and highly liquid such as ETH or BTC
+    8. It is best practice to use an external token that is not native to the ecosystem, as this would protect against “bank runs” should the network come under attack by malicious actors, and the platform would be more robust in the face of “whale activity” affecting CHOC token price volatility.
+    9. Using external tokens as collateral, eliminates pricing risk idiosyncratic to CHOC. For example, if the price of CHOC drops suddenly, the value of the collateral remains relatively stable and so users still have “skin in the game” and are incentivised to act in the interests of chocolate
 
-            Collateral is locked-up by users in order to submit their reviews
+4.  Authentication of Humanity (Indicative Approaches) 10. To ensure that the account is created by a human 6. hCAPTCHA[^2] (an independent and privacy-respecting alternative to Google’s reCAPTCHA)
 
-            3. This micro-deposit must be large enough to encourage honest participation, but small enough to ensure minimal friction in user onboarding and scaling of the chocolate platform, similar in concept and function to Interlay-Kintsugi BTC’s micro-deposits used when locking up BTC 4. Users should have “skin in the game” to ensure accountability for the reviews they submit 5. Also protects the system against Denial of Service (DoS) attacks
-            4. For mainnet, this may be DOT or KSM, and eventually any non-CHOC token that is widely circulated and highly liquid such as ETH or BTC
-            5. It is best practice to use an external token that is not native to the ecosystem, as this would protect against “bank runs” should the network come under attack by malicious actors, and the platform would be more robust in the face of “whale activity” affecting CHOC token price volatility.
-            6. Using external tokens as collateral, eliminates pricing risk idiosyncratic to CHOC. For example, if the price of CHOC drops suddenly, the value of the collateral remains relatively stable and so users still have “skin in the game” and are incentivised to act in the interests of chocolate
+        7. AI Hard CAPTCHA
+            1. Flips consist of 4 images and two keywords, and must tell a story where one order makes sense and others don't make sense.
+            2. The images should not contain words or numbers to give away the arrangement.
+            3. They are shown as two strips for the user to choose the correct version.
+        8. "Sliding puzzle" verification
+        9. Machine Learning
+            4. Potential collaboration with Phala Network to leverage Federated Learning to enable blockchain-native ML analytics
 
-        3.  **Authentication of Humanity During User Account Signups (Indicative Approaches)** 7. To ensure that the account is created by a human 6. hCAPTCHA[^2] (an independent and privacy-respecting alternative to Google’s reCAPTCHA)
+    11. To ensure user accountability 10. Achieved by connecting wallets 11. Asymmetric type key signing to authenticate who created the review 12. User profiles feature publicly-viewable review track records - the community can see a user’s contributions over time 13. Good track records unlock higher CHOC reward rates for review submission
 
-                7. AI Hard CAPTCHA
-                    1. Flips consist of 4 images and two keywords, and must tell a story where one order makes sense and others don't make sense.
-                    2. The images should not contain words or numbers to give away the arrangement.
-                    3. They are shown as two strips for the user to choose the correct version.
-                8. "Sliding puzzle" verification
-                9. Machine Learning
-                    4. Potential collaboration with Phala Network to leverage Federated Learning to enable blockchain-native ML analytics
-
-            8. To ensure user accountability 10. Achieved by connecting wallets 11. Asymmetric type key signing to authenticate who created the review 12. User profiles feature publicly-viewable review track records - the community can see a user’s contributions over time 13. Good track records unlock higher CHOC reward rates for review submission
-
-        4.  **Verification of Reviews during Submission (Indicative Approaches)** 9. To ensure that reviews are not submitted by bots or automated programmes after the user account has been set up 10. To also ensure the content is appropriate, i.e. not gibberish, discriminatory, offensive, NSFW etc. 11. We will learn and adopt the best practices for authentication from Amazon product reviews, Google reviews, Uber driver and rider ratings, AirBnB host scores, and TrustPilot, etc. 12. Machine Learning to Augment Human Moderation 14. Machine learning algorithms to flag suspicious reviews automatically, combined with an internal content integrity team comprised of human employees hired by the DAO to review flagged reviews, exercise holistic judgement and protect against machine learning bias/drift 5. Decision making process should be logged to ensure accountability and transparency 6. E.g. Trustpilot reported having received a total of >144 million reviews, with approximately only 2.2 million fake reviews removed in 2020 7. Down the road we could also implement crowdsourced review verification programmes to pay community members to moderate content, akin to Amazon Mechanical Turk, a.k.a. MTurk (see: [https://www.mturk.com/](https://www.mturk.com/)) 15. Potential collaboration with Phala Network to leverage Federated Learning to enable blockchain-native ML analytics 16. Sample screens for bot reviews could include: 8. Are there many identical / similar reviews? 9. Did many reviews originate in quick succession? 10. Were the reviews generated from the same geolocation / IP address? 11. Were multiple reviews submitted simultaneously? 12. Does this account only submit reviews at a mechanical periodicity / frequency / specific time repeatedly?
+5.  **Verification of Reviews during Submission (Indicative Approaches)** 12. To ensure that reviews are not submitted by bots or automated programmes after the user account has been set up 13. To also ensure the content is appropriate, i.e. not gibberish, discriminatory, offensive, NSFW etc. 14. We will learn and adopt the best practices for authentication from Amazon product reviews, Google reviews, Uber driver and rider ratings, AirBnB host scores, and TrustPilot, etc. 15. Machine Learning to Augment Human Moderation 14. Machine learning algorithms to flag suspicious reviews automatically, combined with an internal content integrity team comprised of human employees hired by the DAO to review flagged reviews, exercise holistic judgement and protect against machine learning bias/drift 5. Decision making process should be logged to ensure accountability and transparency 6. E.g. Trustpilot reported having received a total of >144 million reviews, with approximately only 2.2 million fake reviews removed in 2020 7. Down the road we could also implement crowdsourced review verification programmes to pay community members to moderate content, akin to Amazon Mechanical Turk, a.k.a. MTurk (see: [https://www.mturk.com/](https://www.mturk.com/)), the DAO may “contract” these workers, so to speak. 15. Potential collaboration with Phala Network to leverage Federated Learning to enable blockchain-native ML analytics 16. Sample screens for bot reviews could include: 8. Are there many identical / similar reviews? 9. Did many reviews originate in quick succession? 10. Were the reviews generated from the same geolocation / IP address? 11. Were multiple reviews submitted simultaneously? 12. Does this account only submit reviews at a mechanical periodicity / frequency / specific time repeatedly?
 
 ## BUSINESS MODEL
 
@@ -282,12 +295,15 @@ However, as mentioned previously, while the monetary value transferred from hone
       1. Community-ownership of the chocolate platform through the CHOC token, which also acts as a governance and utility token;
       2. CHOC is an incentive reward for good actors.
       3. All platform revenue streams will go to the community-owned DAO and holders of CHOC tokens
-         1. Segments may include: Brave Browser-style ads which do not infringe on consumer data sovereignty, platform transaction fees,
+         1. Brave Browser-style ads (which do not infringe on consumer data sovereignty)
+         2. Platform transaction fees, like Uniswap, DODO Ex and 1inch
+         3. Projects or other entities may also pay to access detailed anonymised data analytics and insights (e.g. How can their Acala improve their DeFi LP staking services? What do Phala delegators feel about the unstaking process on-app and what can be done better?)
+            1. Existing platforms like Trustpilot, Feefo and Tripadvisor are harvesting user reviews for free and profiteering off companies which buy that information. We aim to compensate the community fairly for their contributions.
       4. Holders can stake to contribute security, and vote to influence the direction of the platform;
       5. Facilitates community empowerment and engagement;
       6. Self-sustaining and decentralised; secure
 
-   2. **“TrustPilot” Freemium model** 7. Free for all users and projects to participate, and projects have the option to pay a fee for access to premium features. 2. B2B customers (see "Use Cases") sign up for free and can enjoy verified badges, platform support, but also have the option to pay a fee for access to premium features like user review analytics and insights on how to scale their projects based on honest community feedback. 8. Users and token holders can contribute reviews and earn tokens in exchange, like BAT in exchange for viewing ads.
+   2. **“TrustPilot” Freemium model** 7. Free for all users and projects to participate, and projects have the option to pay a subscription for access to premium features. 4. B2B customers (see "Use Cases") sign up for free and can enjoy verified badges, platform support, but also have the option to pay a fee for access to premium features like user review analytics and insights on how to scale their projects based on honest community feedback. 8. Users and token holders can contribute reviews and earn tokens in exchange, like BAT in exchange for viewing ads.
 
    3. **“Insurance Premium” Subscription model ** 9. B2B: projects pay a subscription fee to enjoy the verification benefits of the chocolate platform. 10. If X were to represent the total value of losses each year due to scams in crypto, projects would be willing to pay a portion of X, e.g. 0.1X, each year to Chocolate to gain the remaining 0.9X of value. This would have otherwise been pocketed by scammers, i.e. “leakage”. 11. Overall size of the “crypto pie” grows for all ecosystem participants as we make lives difficult for scammers and bad actors, and greater mainstream adoption of crypto occurs.
 
@@ -342,11 +358,9 @@ Laying out the groundwork for self-sustaining scalability and adaptability, comm
 2. **“Chocablock Treasury”** 3. A Sovereign Wealth Fund maintained by CACAO 5. R&D grants, 6. strategic acquisitions, 7. return-generating investments (TBC), 8. community initiatives, 9. reserves to tide over recessions, 10. general maintenance of the ecosystem, and 11. to self-secure a perpetual parachain slot as an eventual replacement to auction crowd loans 4. All fees and slashed assets accrue directly to the treasury, which in turn rewards positive contributions to the ecosystem, and foster initiatives that contribute to the mission of chocolate
 3. **“Chocolate Labs”** 5. An R&D branch behind the next-level technologies powering the Chocolate platform, also responsible for supporting ecosystem growth and adaptability
 
-## GOVERNANCE & INDICATIVE LEGAL STRUCTURE
+### Relationships Between the Entities
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image3.png 'image_tooltip')
+![alt_text](images/image4.png 'image_tooltip')
 
 ## TOKENOMICS
 
@@ -475,9 +489,7 @@ The fulfilment of these four core aims of the tokenomics strategy will be contin
 
 1. **Economic inflation** - ensure the supply schedule supports value retention and functionality without stifling value creation and participation. Like other PoS networks, there will be an initial token supply (preliminarily 1 billion total) with portions reserved for funding, parachain slot funding (tbc.), development, Treasury and for the community. Going forward, an inflation rate of
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-0% will be targeted in order to: 1. Provide incentives to validators staking CHOC and securing the network 2. Provide rewards for users collateralizing CHOC and contributing genuine reviews
+">="0% will be targeted in order to: 1. Provide incentives to validators staking CHOC and securing the network 2. Provide rewards for users collateralizing CHOC and contributing genuine reviews
 
 Therefore, each time a block is generated a block reward will be allocated to:
 
@@ -486,9 +498,9 @@ Therefore, each time a block is generated a block reward will be allocated to:
 
     An inflationary model is chosen to incentivize token holders to stake (and spend) their tokens) instead of hoarding them as in a deflationary model (e.g. Bitcoin). This will be particularly important given the aim of incentivizing CHOC airdrop recipients to offer their tokens via DEX and CEX to third party projects seeking verification.
 
-2. **Initial token allocation** - avoid an unfair distribution whereby the Foundation / Developers control an outsize portion of the supply. Ensure sufficiently attractive volumes of tokens are allocated to reward users who contribute genuine reviews and therefore value creating reviews to the community. Given the legal entity structure and desire for third-part projects to purchase tokens on the secondary market (via DEXs) it will be necessary to have a portion of tokens to be airdropped.
-3. **Ongoing token distribution** - at the heart of the Chocolate protocol sits the idea that users are rewarded for genuine reviews of projects, entities, etc. and bad actors are punished by slashing their collateral. The mechanism for completing this will be for third party projects to purchase airdropped tokens on the open market to fund “bounties” to encourage users to complete reviews. Users will then review the project and receive tokens in the event of a successful review verification. In order to encourage participation, a minimum quantity of CHOC will be promised for a valid review with users having the option to further boost returns by staking additional CHOC for the duration of the review process.
-4. **Disincentivizing malicious activity -** together with the audit system, the collateral framework must be built in such a way that the cost to bad actors to spam the network with positive reviews exceeds the expected return from promoting and then executing a scam project. This can be tackled by a combination of: 3. Strong audit process set-up to recognise spam reviews (e.g. by pattern recognition, machine learning, etc.) 4. A rewards system where the greater the volume of accurate reviews a user contributes (which will be verifiable on the blockchain), the greater their impact score on the project review and thus the greater their reward manifesting as a loyalty bonus (e.g. through a user “trust score”) 5. Severe freezing and slashing of tokens to punish bad actors 6. Public flagging of suspected malicious wallets
+1. **Initial token allocation** - avoid an unfair distribution whereby the Foundation / Developers control an outsize portion of the supply. Ensure sufficiently attractive volumes of tokens are allocated to reward users who contribute genuine reviews and therefore value creating reviews to the community. Given the legal entity structure and desire for third-part projects to purchase tokens on the secondary market (via DEXs) it will be necessary to have a portion of tokens to be airdropped.
+2. **Ongoing token distribution** - at the heart of the Chocolate protocol sits the idea that users are rewarded for genuine reviews of projects, entities, etc. and bad actors are punished by slashing their collateral. The mechanism for completing this will be for third party projects to purchase airdropped tokens on the open market to fund “bounties” to encourage users to complete reviews. Users will then review the project and receive tokens in the event of a successful review verification. In order to encourage participation, a minimum quantity of CHOC will be promised for a valid review with users having the option to further boost returns by staking additional CHOC for the duration of the review process.
+3. **Disincentivizing malicious activity -** together with the audit system, the collateral framework must be built in such a way that the cost to bad actors to spam the network with positive reviews exceeds the expected return from promoting and then executing a scam project. This can be tackled by a combination of: 3. Strong audit process set-up to recognise spam reviews (e.g. by pattern recognition, machine learning, etc.) 4. A rewards system where the greater the volume of accurate reviews a user contributes (which will be verifiable on the blockchain), the greater their impact score on the project review and thus the greater their reward manifesting as a loyalty bonus (e.g. through a user “trust score”) 5. Severe freezing and slashing of tokens to punish bad actors 6. Public flagging of suspected malicious wallets
 
 Given the nascent stages of our project, the above token strategy’s aims, issues and proposed solutions remain purely preliminary and will be further detailed and formalized by the team. We hope to marry sector best-practice with a suitable theoretical framework that accounts for our novel legal structure and problem statement.
 
@@ -498,7 +510,7 @@ Given the nascent stages of our project, the above token strategy’s aims, issu
 
 - Single feature implementation (User-view)
 
-### Hack DeFi with WIntermute Encode Hackathon (11-
+### Hack DeFi with WIntermute Encode Hackathon (11-20th Prize)
 
 - Refinement of thesis and platform
 
@@ -556,9 +568,9 @@ Our vision is to establish a “vanguard of trust” in the crypto ecosystem. Ou
 - Machine Learning / Federated Learning: Phala Network - direct connection with core team
 - Polkadot.js Web Browser Extension Integration: Web3 Foundation - directly in touch with key members
 
-**RISK MANAGEMENT & MITIGATING FACTORS**
+## RISK MANAGEMENT & MITIGATING FACTORS
 
-**Technological **
+### Technological
 
 - Proof-of-Stake (Attack by buying up 51% of all tokens available so you can dictate the governance)
   - Core team could hold a significant buffer of tokens until it is safe and ecosystem is mature and sufficiently distributed before drip feeding the rest of the supply publicly
@@ -581,7 +593,7 @@ Our vision is to establish a “vanguard of trust” in the crypto ecosystem. Ou
   - Start by getting any data available, or leverage existing trusted and reputable data sets
   - Then learn, build out ML, and add data as you go along
 
-**Competitive Landscape**
+### Competitive Landscape
 
 - Threat of new entrants
   - Continually engage in innovation
@@ -589,24 +601,24 @@ Our vision is to establish a “vanguard of trust” in the crypto ecosystem. Ou
 - Established players (incumbents) have secured significant network effects (barriers to entry) in the form of data, machine learning algorithms, user base, commercial partnerships, contracts etc, and if they decide to use blockchain technology it would be too difficult for us to compete effectively with them and win market share
   - Be more nimble, adaptive, and provide more value to the target audience than the incumbents to win market share
 
-**Political, Legal and Regulatory **
+### Political, Legal and Regulatory
 
 - Governmental crackdowns
-  - Gavin Wood was saying that the most regulated are custody solutions
-- Lack of legal clarity on treatment of crypto assets, equivocation. Makes it hard to engage in long term planning
+  - Gavin Wood was saying that the most likely to get regulated are custody solutions (to confirm)
+- Lack of legal clarity on treatment of crypto assets, policy equivocation. Makes it hard to engage in long term planning
   - Seek out countries which are clear in their legal frameworks, have strong rule of law in their jurisdictions, and are crypto-progressive/accomodative, tax friendly (See: France, Dubai and Singapore for examples of such. Moonbeam, Acala, Phala, Nodle and many others are nonprofits established in Singapore)
 - Conflict of interest (who is paying for the reviews?)
   - Arm's length transactions: maybe Chocolate platform does not sell tokens to users, but we airdrop to CEXes and DEXes, and the projects buy these tokens up and set up bounties on the chocolate platform for users to buy reviews, etc. (TBC)
-- KYX that is non-compliant? Ask for too many details and keeping information that is not ours to keep
+- KYX that is non-compliant? Ask for too many details and keeping information that is not ours to keep (See: GDPR)
   - We will use collateralisation and transparent user review track records to encourage accountability.
-- GDPR - in that user data and reviews is recorded permanently on the blockchain
+- GDPR -how to deal with user data and reviews as they are recorded permanently on the blockchain
   - We will only track wallet addresses, which can be anonymous if the user prefers, and we will not require personal information to be divulged
 
-**Environmental**
+### Environmental
 
 - We face an opportunity rather than risk: PoS systems are more eco-friendly than PoW systems
 
-**Sociological**
+### Sociological
 
 - Motivation Crowding Theory - if we pay people for reviews, will they no longer give them for free? Currently people are doing this for free on TrustPilot
   - There will always be people who will share their input, and will always be inclined to do so, whether out of their goodwill, or even as a form of vengeance against bad acting projects, especially as the platform will engender growth in the crypto ecosystem
@@ -650,11 +662,11 @@ Our vision is to establish a “vanguard of trust” in the crypto ecosystem. Ou
   - Maybe institute rotations between departments and would be beneficial for holistic development and fostering interdepartmental trust and mutual understanding of paint points. Good for cohesive culture.
   - Balance: chain of command with flat hierarchy to retain organisational agility
 - Corruption of the core team
-  - “ Turns out to be the biggest scam of all!”
+  - “Turns out to be the biggest scam of all!”
   - Decentralise authority
   - Institute checks and balances and failsafes
   - Build a culture of ownership and accountability into the team, community and the platform
-  - DD the core team backgrounds. Hire only those you trust.
+  - DD the core team backgrounds. Recruit only those you trust and respect for their skills in equal measure.
 - Projects paying for reviews (akin to buying Twitter followers)
   - Align the incentives appropriately, conduct spot checks at random
 - Disagreement or discontent between teammates
@@ -665,7 +677,7 @@ Our vision is to establish a “vanguard of trust” in the crypto ecosystem. Ou
   - Design robust ML algorithms
   - Hire and invest in the best talent to build out this adversarial ML component
 
-**TEAM**
+## TEAM
 
 <table>
   <tr>
@@ -790,17 +802,11 @@ Our vision is to establish a “vanguard of trust” in the crypto ecosystem. Ou
   </tr>
 </table>
 
-<p style="text-align: right">
-<strong>CONTACT</strong></p>
+## CONTACT
 
-<p style="text-align: right">
-Clifton</p>
+chocolate 🍫
 
-<p style="text-align: right">
-ckl.yeo@gmail.com</p>
-
-<p style="text-align: right">
-bidibidibum#8812</p>
+[email](mailto:teamchocolate@pm.me) • [twitter](https://twitter.com/ChocolateTruth) • [discord](https://discord.gg/8KXdA7DdfZ)
 
 <!-- Footnotes themselves at the bottom. -->
 
